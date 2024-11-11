@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Cloud, Game Designing and Unity Engine**
 
-- 📫 How to reach me **madheshh.official@gmail.com**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/madheshh/)
 
 - 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1HKhJ5_yHlJepoMQEomijM1JlhXFPa7E8/view?usp=drive_link)
 
