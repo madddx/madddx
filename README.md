@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [My Page](https://madhesh.vercel.app/)
 
-- 💬 Ask me about **Cloud, Game Designing and Unity Engine**
+- 🎲 Ask me about **Cloud, Game Designing and Unity Engine**
 
--  💬All of my Cloud Badges are available at [Cloudskills](https://www.cloudskillsboost.google/public_profiles/5ba25793-b3fa-457a-91f3-508e068e59b4)
+- 💬 All of my Cloud Badges are available at [Cloudskills](https://www.cloudskillsboost.google/public_profiles/5ba25793-b3fa-457a-91f3-508e068e59b4)
 
 - 📫 How to reach me **madheshh.official@gmail.com**
 
