@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madddx&show_icons=true&locale=en&layout=compact" alt="madddx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madddx&show_icons=true&locale=en" alt="madddx" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madddx&" alt="madddx" /></p>
