@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud and Virtual Reality**
 
-- 👨‍💻 All of my projects are available at [https://madhesh.vercel.app/](https://madhesh.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Page](https://madhesh.vercel.app/)
 
 - ☁️ All of my projects are available at [Google Cloud](https://www.cloudskillsboost.google/public_profiles/5ba25793-b3fa-457a-91f3-508e068e59b4)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **madheshh.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HKhJ5_yHlJepoMQEomijM1JlhXFPa7E8/view?usp=drive_link](https://drive.google.com/file/d/1HKhJ5_yHlJepoMQEomijM1JlhXFPa7E8/view?usp=drive_link)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1HKhJ5_yHlJepoMQEomijM1JlhXFPa7E8/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm a coder**
 
