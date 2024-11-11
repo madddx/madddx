@@ -6,10 +6,6 @@
   <a href="https://github.com/madddx"><img src="https://img.shields.io/github/followers/madddx?label=Follow&style=social" alt="followers"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madddx&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="madddx" /></a>
-</p>
-
 ---
 
 ### 🛠️ About Me:
@@ -55,20 +51,6 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madddx&theme=default" alt="Profile Details" /></td>
   </tr>
 </table>
-
----
-
-### 📈 GitHub Highlights
-- **Total Commits (2024):** 352
-- **Pull Requests:** 1
-- **Contributions:** 2 in the last year
-
----
-
-### 📂 Featured Projects
-- 🌩️ **Cloud Solutions:** Building scalable applications on AWS and Google Cloud
-- 🎮 **Game Development:** Developing VR experiences using Unity
-- 💻 **Open Source Contributions:** Supporting the open-source community
 
 ---
 
