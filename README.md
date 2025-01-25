@@ -43,7 +43,8 @@
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madddx&theme=default" alt="Top Languages by Commit" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=madddx" alt="GitHub Streak" /></td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madddx&theme=default" alt="GitHub Streak" />
+
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=madddx&show_icons=true&locale=en" alt="GitHub Stats" /></td>
