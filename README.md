@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Capsule Render Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=200&section=header&text=Madhesh%20H&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Developer%20%7C%20VR%20Enthusiast%20%7C%20Game%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=200&section=header&text=Madhesh%20H&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Developer%20%7C%20%7C&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=☁️+Cloud+Developer+on+GCP+%26+AWS;🥽+Building+Virtual+Reality+with+Unity;🎮+Game+Designer+%26+3D+World+Builder;🚀+Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Developer+%E2%98%81%EF%B8%8F;Building+on+GCP+%26+AWS+%F0%9F%9A%80;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
